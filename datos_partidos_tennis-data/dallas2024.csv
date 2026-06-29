@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+8,Dallas,Dallas Open,05/02/2024,ATP250,Indoor,Hard,1st Round,3,Daniel T.,Lestienne C.,62,104,858,599,4,6,6,4,5,0,,,,,1,1,Retired,1.53,2.5,1.6,2.47,1.64,2.52,1.56,2.38
+8,Dallas,Dallas Open,06/02/2024,ATP250,Indoor,Hard,1st Round,3,Purcell M.,Krueger M.,43,244,1036,243,6,2,4,6,7,6,,,,,2,1,Completed,1.36,3.2,1.41,3.1,1.44,3.2,1.39,2.93
+8,Dallas,Dallas Open,06/02/2024,ATP250,Indoor,Hard,1st Round,3,Michelsen A.,Sandgren T.,75,281,741,200,6,3,3,6,6,1,,,,,2,1,Completed,1.4,3,1.46,2.92,1.46,3,1.41,2.83
+8,Dallas,Dallas Open,06/02/2024,ATP250,Indoor,Hard,1st Round,3,Duckworth J.,Svajda Z.,106,145,591,442,7,6,6,1,,,,,,,2,0,Completed,1.73,2.1,1.86,2.03,1.86,2.15,1.78,2.01
+8,Dallas,Dallas Open,06/02/2024,ATP250,Indoor,Hard,1st Round,3,Giron M.,Moreno De Alboran N.,67,154,825,412,6,1,6,4,,,,,,,2,0,Completed,1.33,3.4,1.32,3.7,1.33,3.7,1.3,3.42
+8,Dallas,Dallas Open,06/02/2024,ATP250,Indoor,Hard,1st Round,3,Eubanks C.,Johnson S.,33,246,1220,240,6,1,6,4,,,,,,,2,0,Completed,1.5,2.63,1.51,2.71,1.52,2.71,1.49,2.57
+8,Dallas,Dallas Open,06/02/2024,ATP250,Indoor,Hard,1st Round,3,Mmoh M.,Nava E.,115,149,547,430,7,5,6,2,,,,,,,2,0,Completed,1.67,2.2,1.71,2.25,1.71,2.25,1.66,2.18
+8,Dallas,Dallas Open,06/02/2024,ATP250,Indoor,Hard,1st Round,3,Nishioka Y.,Atmane T.,83,144,695,453,7,6,4,6,6,3,,,,,2,1,Completed,1.67,2.2,1.71,2.25,1.8,1.95,1.8,1.95
+8,Dallas,Dallas Open,07/02/2024,ATP250,Indoor,Hard,1st Round,3,Thompson J.,Neff A.,44,829,1022,23,6,3,6,1,,,,,,,2,0,Completed,1.03,15,1.03,24.17,1.03,24.17,1.02,14.34
+8,Dallas,Dallas Open,07/02/2024,ATP250,Indoor,Hard,1st Round,3,Koepfer D.,Kovacevic A.,60,100,868,616,6,4,7,6,,,,,,,2,0,Completed,1.36,3.2,1.43,3.05,1.43,3.25,1.35,3.09
+8,Dallas,Dallas Open,07/02/2024,ATP250,Indoor,Hard,1st Round,3,Kudla D.,Albot R.,174,137,355,489,6,3,7,6,,,,,,,2,0,Completed,1.73,2.1,1.79,2.12,1.79,2.17,1.72,2.09
+8,Dallas,Dallas Open,07/02/2024,ATP250,Indoor,Hard,1st Round,3,Hijikata R.,Quinn E.,88,288,680,196,6,4,6,4,,,,,,,2,0,Completed,1.67,2.2,1.7,2.27,1.7,2.38,1.63,2.24
+8,Dallas,Dallas Open,07/02/2024,ATP250,Indoor,Hard,2nd Round,3,Giron M.,Purcell M.,67,43,825,1036,6,4,6,3,,,,,,,2,0,Completed,1.53,2.5,1.54,2.66,1.57,2.66,1.52,2.49
+8,Dallas,Dallas Open,07/02/2024,ATP250,Indoor,Hard,2nd Round,3,Duckworth J.,Eubanks C.,106,33,591,1220,7,6,6,4,,,,,,,2,0,Completed,2.38,1.57,2.41,1.64,2.41,1.64,2.32,1.59
+8,Dallas,Dallas Open,08/02/2024,ATP250,Indoor,Hard,2nd Round,3,Shelton B.,Mmoh M.,16,115,1965,547,6,3,6,3,,,,,,,2,0,Completed,1.3,3.5,1.36,3.49,1.36,3.53,1.31,3.34
+8,Dallas,Dallas Open,08/02/2024,ATP250,Indoor,Hard,2nd Round,3,Paul T.,Daniel T.,15,62,2050,858,6,3,6,2,,,,,,,2,0,Completed,1.25,4,1.27,4.18,1.3,4.18,1.26,3.77
+8,Dallas,Dallas Open,08/02/2024,ATP250,Indoor,Hard,2nd Round,3,Koepfer D.,Hijikata R.,60,88,868,680,6,3,7,6,,,,,,,2,0,Completed,1.44,2.75,1.46,2.95,1.5,2.95,1.44,2.74
+8,Dallas,Dallas Open,08/02/2024,ATP250,Indoor,Hard,2nd Round,3,Thompson J.,Kudla D.,44,174,1022,355,6,1,6,1,,,,,,,2,0,Completed,1.29,3.75,1.29,4,1.3,4,1.28,3.59
+8,Dallas,Dallas Open,09/02/2024,ATP250,Indoor,Hard,2nd Round,3,Tiafoe F.,Michelsen A.,14,75,2060,741,6,4,6,3,,,,,,,2,0,Completed,1.53,2.5,1.62,2.46,1.62,2.63,1.54,2.43
+8,Dallas,Dallas Open,09/02/2024,ATP250,Indoor,Hard,2nd Round,3,Mannarino A.,Nishioka Y.,17,83,1920,695,,,,,,,,,,,,,Walkover,1.44,2.75,1.61,2.49,1.61,2.75,1.49,2.56
+8,Dallas,Dallas Open,09/02/2024,ATP250,Indoor,Hard,Quarterfinals,3,Paul T.,Koepfer D.,15,60,2050,868,7,5,6,3,,,,,,,2,0,Completed,1.36,3.2,1.41,3.18,1.45,3.2,1.37,3.03
+8,Dallas,Dallas Open,09/02/2024,ATP250,Indoor,Hard,Quarterfinals,3,Shelton B.,Thompson J.,16,44,1965,1022,6,7,6,4,6,4,,,,,2,1,Completed,1.44,2.75,1.46,2.94,1.47,2.94,1.43,2.78
+8,Dallas,Dallas Open,10/02/2024,ATP250,Indoor,Hard,Quarterfinals,3,Giron M.,Tiafoe F.,67,14,825,2060,6,1,6,4,,,,,,,2,0,Completed,2.3,1.62,2.22,1.74,2.3,1.74,2.21,1.65
+8,Dallas,Dallas Open,10/02/2024,ATP250,Indoor,Hard,Quarterfinals,3,Mannarino A.,Duckworth J.,17,106,1920,591,6,2,3,1,,,,,,,1,0,Retired,1.44,2.75,1.51,2.77,1.51,2.8,1.45,2.69
+8,Dallas,Dallas Open,10/02/2024,ATP250,Indoor,Hard,Semifinals,3,Paul T.,Shelton B.,15,16,2050,1965,6,2,6,4,,,,,,,2,0,Completed,2,1.8,2,1.91,2.03,1.91,1.97,1.82
+8,Dallas,Dallas Open,10/02/2024,ATP250,Indoor,Hard,Semifinals,3,Giron M.,Mannarino A.,67,17,825,1920,6,1,6,3,,,,,,,2,0,Completed,1.91,1.91,1.91,2,1.91,2,1.88,1.9
+8,Dallas,Dallas Open,11/02/2024,ATP250,Indoor,Hard,The Final,3,Paul T.,Giron M.,15,67,2050,825,7,6,5,7,6,3,,,,,2,1,Completed,1.53,2.5,1.57,2.58,1.57,2.65,1.52,2.48

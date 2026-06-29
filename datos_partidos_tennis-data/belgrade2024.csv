@@ -1,0 +1,28 @@
+﻿ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+63,Belgrade,Belgrade Open,03/11/2024,ATP250,Indoor,Hard,1st Round,3,Marozsan F.,Shang J.,59,50,930,1115,2,6,7,6,7,5,,,,,2,1,Completed,2.75,1.44,2.63,1.54,2.75,1.55,2.56,1.5
+63,Belgrade,Belgrade Open,03/11/2024,ATP250,Indoor,Hard,1st Round,3,Medjedovic H.,Nakashima B.,156,37,378,1350,3,6,7,5,6,3,,,,,2,1,Completed,2.5,1.53,2.7,1.52,2.77,1.57,2.54,1.5
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,Altmaier D.,Darderi L.,93,43,625,1248,7,6,6,3,,,,,,,2,0,Completed,1.8,2,1.79,2.12,1.86,2.18,1.77,2.02
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,Cilic M.,Muller A.,196,68,298,790,7,6,6,3,,,,,,,2,0,Completed,1.44,2.75,1.54,2.63,1.54,2.78,1.47,2.65
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,Etcheverry T.,Kotov P.,39,75,1315,745,6,3,6,4,,,,,,,2,0,Completed,1.44,2.75,1.48,2.82,1.49,2.9,1.45,2.71
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,Kovacevic A.,Djuric B.,101,781,607,30,6,2,6,2,,,,,,,2,0,Completed,1.2,4.5,1.18,5.49,1.23,6,1.17,4.89
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,Klein L.,Duckworth J.,153,77,380,731,6,4,6,2,,,,,,,2,0,Completed,1.73,2.1,1.64,2.39,1.74,2.39,1.65,2.2
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,Lajovic D.,Navone M.,86,45,685,1198,6,0,7,6,,,,,,,2,0,Completed,1.8,2,1.75,2.18,1.82,2.18,1.73,2.07
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,Shapovalov D.,Fucsovics M.,78,91,718,629,6,7,7,5,6,1,,,,,2,1,Completed,1.57,2.38,1.66,2.35,1.66,2.45,1.58,2.34
+63,Belgrade,Belgrade Open,04/11/2024,ATP250,Indoor,Hard,1st Round,3,O Connell C.,Kecmanovic M.,71,53,765,1021,6,1,6,1,,,,,,,2,0,Completed,3,1.4,2.89,1.46,3,1.47,2.78,1.43
+63,Belgrade,Belgrade Open,05/11/2024,ATP250,Indoor,Hard,1st Round,3,Safiullin R.,Fognini F.,60,74,898,745,6,3,6,3,,,,,,,2,0,Completed,1.22,4.33,1.27,4.09,1.27,4.34,1.23,3.99
+63,Belgrade,Belgrade Open,05/11/2024,ATP250,Indoor,Hard,1st Round,3,Djere L.,Wawrinka S.,141,148,419,391,6,4,6,4,,,,,,,2,0,Completed,2.2,1.67,2.21,1.74,2.21,1.74,2.15,1.68
+63,Belgrade,Belgrade Open,05/11/2024,ATP250,Indoor,Hard,2nd Round,3,Medjedovic H.,Kovacevic A.,156,101,378,607,7,6,6,4,,,,,,,2,0,Completed,1.4,3,1.48,2.88,1.5,3,1.42,2.79
+63,Belgrade,Belgrade Open,05/11/2024,ATP250,Indoor,Hard,2nd Round,3,Klein L.,Etcheverry T.,153,39,380,1315,6,4,7,6,,,,,,,2,0,Completed,2.5,1.53,2.47,1.61,2.6,1.61,2.45,1.53
+63,Belgrade,Belgrade Open,05/11/2024,ATP250,Indoor,Hard,2nd Round,3,Lehecka J.,Cilic M.,31,196,1560,298,6,4,7,6,,,,,,,2,0,Completed,1.53,2.5,1.59,2.54,1.59,2.56,1.53,2.46
+63,Belgrade,Belgrade Open,06/11/2024,ATP250,Indoor,Hard,2nd Round,3,Cerundolo F.,Safiullin R.,29,60,1580,898,6,4,6,4,,,,,,,2,0,Completed,2.5,1.53,2.48,1.61,2.5,1.64,2.38,1.57
+63,Belgrade,Belgrade Open,06/11/2024,ATP250,Indoor,Hard,2nd Round,3,O Connell C.,Altmaier D.,71,93,765,625,6,3,6,1,,,,,,,2,0,Completed,1.53,2.5,1.55,2.64,1.55,2.64,1.51,2.51
+63,Belgrade,Belgrade Open,06/11/2024,ATP250,Indoor,Hard,2nd Round,3,Shapovalov D.,Borges N.,78,33,718,1446,6,2,6,4,,,,,,,2,0,Completed,1.33,3.4,1.37,3.42,1.37,3.65,1.32,3.33
+63,Belgrade,Belgrade Open,06/11/2024,ATP250,Indoor,Hard,2nd Round,3,Marozsan F.,Lajovic D.,59,86,930,685,6,3,7,5,,,,,,,2,0,Completed,1.73,2.1,1.74,2.23,1.74,2.23,1.68,2.15
+63,Belgrade,Belgrade Open,06/11/2024,ATP250,Indoor,Hard,2nd Round,3,Djere L.,Ajdukovic D.,141,115,419,506,6,1,7,6,,,,,,,2,0,Completed,1.44,2.75,1.5,2.78,1.5,2.98,1.43,2.75
+63,Belgrade,Belgrade Open,07/11/2024,ATP250,Indoor,Hard,Quarterfinals,3,Lehecka J.,Klein L.,31,153,1560,380,3,6,7,6,6,3,,,,,2,1,Completed,1.36,3.2,1.43,3.08,1.44,3.2,1.39,2.97
+63,Belgrade,Belgrade Open,07/11/2024,ATP250,Indoor,Hard,Quarterfinals,3,Shapovalov D.,O Connell C.,78,71,718,765,6,2,6,2,,,,,,,2,0,Completed,1.5,2.63,1.52,2.71,1.55,2.71,1.5,2.55
+63,Belgrade,Belgrade Open,07/11/2024,ATP250,Indoor,Hard,Quarterfinals,3,Djere L.,Marozsan F.,141,59,419,930,6,4,6,2,,,,,,,2,0,Completed,1.8,2,1.88,2.03,1.9,2.09,1.82,1.97
+63,Belgrade,Belgrade Open,07/11/2024,ATP250,Indoor,Hard,Quarterfinals,3,Medjedovic H.,Cerundolo F.,156,29,378,1580,6,4,6,2,,,,,,,2,0,Completed,2.1,1.73,2.09,1.83,2.25,1.83,2.08,1.73
+63,Belgrade,Belgrade Open,08/11/2024,ATP250,Indoor,Hard,Semifinals,3,Shapovalov D.,Lehecka J.,78,31,718,1560,6,2,6,1,,,,,,,2,0,Completed,1.67,2.2,1.74,2.23,1.76,2.24,1.68,2.16
+63,Belgrade,Belgrade Open,08/11/2024,ATP250,Indoor,Hard,Semifinals,3,Medjedovic H.,Djere L.,156,141,378,419,6,2,3,6,7,6,,,,,2,1,Completed,1.62,2.3,1.71,2.26,1.74,2.32,1.64,2.22
+63,Belgrade,Belgrade Open,09/11/2024,ATP250,Indoor,Hard,The Final,3,Shapovalov D.,Medjedovic H.,78,156,718,378,6,4,6,4,,,,,,,2,0,Completed,1.4,3,1.41,3.13,1.41,3.17,1.38,3

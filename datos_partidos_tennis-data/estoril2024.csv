@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+21,Estoril,Estoril Open,01/04/2024,ATP250,Outdoor,Clay,1st Round,3,Bautista Agut R.,Kecmanovic M.,93,50,654,995,6,1,7,5,,,,,,,2,0,Completed,2.3,1.62,2.44,1.61,2.44,1.65,2.32,1.59
+21,Estoril,Estoril Open,01/04/2024,ATP250,Outdoor,Clay,1st Round,3,Thiem D.,Marterer M.,91,97,655,616,6,1,6,7,6,4,,,,,2,1,Completed,1.62,2.3,1.69,2.26,1.69,2.32,1.63,2.23
+21,Estoril,Estoril Open,01/04/2024,ATP250,Outdoor,Clay,1st Round,3,Borges N.,Pouille L.,62,241,871,252,0,6,7,6,6,3,,,,,2,1,Completed,1.5,2.63,1.45,2.93,1.53,2.93,1.46,2.69
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Fucsovics M.,Cachin P.,85,78,697,733,7,5,6,2,,,,,,,2,0,Completed,1.44,2.75,1.46,2.92,1.49,2.92,1.44,2.74
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Martinez P.,Altmaier D.,77,54,741,955,6,4,6,2,,,,,,,2,0,Completed,1.73,2.1,1.72,2.23,1.75,2.23,1.7,2.14
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Choinski J.,Fonseca J.,188,288,325,193,6,2,6,7,6,4,,,,,2,1,Completed,2.1,1.73,2.2,1.74,2.2,1.75,2.11,1.71
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Llamas Ruiz P.,Koepfer D.,152,52,421,972,6,4,6,3,,,,,,,2,0,Completed,2.75,1.44,2.61,1.55,2.9,1.55,2.64,1.47
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Jorda Sanchis D.,Faria J.,329,262,159,217,7,6,6,1,,,,,,,2,0,Completed,3,1.4,3.01,1.43,3.01,1.44,2.86,1.41
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Garin C.,Rodionov J.,112,119,543,515,7,6,7,5,,,,,,,2,0,Completed,1.4,3,1.43,3.05,1.44,3.07,1.4,2.89
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Fils A.,Sousa J.,37,272,1130,209,7,5,6,4,,,,,,,2,0,Completed,1.25,4,1.26,4.28,1.29,4.28,1.25,3.85
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Monfils G.,Rocha H.,45,197,1067,306,7,5,7,5,,,,,,,2,0,Completed,1.36,3.2,1.4,3.2,1.4,3.3,1.36,3.09
+21,Estoril,Estoril Open,03/04/2024,ATP250,Outdoor,Clay,1st Round,3,Van De Zandschulp B.,Coria F.,87,88,690,687,6,4,4,6,6,1,,,,,2,1,Completed,2,1.8,2.06,1.83,2.1,1.84,2,1.79
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Gasquet R.,Thiem D.,122,91,508,655,6,4,7,6,,,,,,,2,0,Completed,2.3,1.62,2.46,1.62,2.46,1.67,2.3,1.61
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Hurkacz H.,Choinski J.,10,188,3425,325,7,6,6,4,,,,,,,2,0,Completed,1.14,5.5,1.15,6.51,1.15,6.51,1.13,5.74
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Llamas Ruiz P.,Jorda Sanchis D.,152,329,421,159,7,6,6,4,,,,,,,2,0,Completed,1.17,5,1.19,5.5,1.21,5.5,1.17,4.92
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Borges N.,Musetti L.,62,24,871,1610,7,6,6,3,,,,,,,2,0,Completed,2.75,1.44,2.58,1.57,2.78,1.57,2.62,1.48
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Garin C.,Fils A.,112,37,543,1130,2,6,6,4,6,4,,,,,2,1,Completed,2.3,1.62,2.4,1.65,2.6,1.67,2.29,1.61
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Martinez P.,Bautista Agut R.,77,93,741,654,7,5,6,4,,,,,,,2,0,Completed,1.73,2.1,1.71,2.23,1.75,2.25,1.7,2.14
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Ruud C.,Van De Zandschulp B.,8,87,3615,690,6,1,6,2,,,,,,,2,0,Completed,1.2,4.5,1.23,4.72,1.23,4.72,1.21,4.36
+21,Estoril,Estoril Open,04/04/2024,ATP250,Outdoor,Clay,2nd Round,3,Fucsovics M.,Monfils G.,85,45,697,1067,1,6,6,1,7,5,,,,,2,1,Completed,2.1,1.73,2.09,1.83,2.14,1.83,2.04,1.76
+21,Estoril,Estoril Open,05/04/2024,ATP250,Outdoor,Clay,Quarterfinals,3,Hurkacz H.,Llamas Ruiz P.,10,152,3425,421,7,6,6,4,,,,,,,2,0,Completed,1.3,3.5,1.33,3.69,1.33,3.71,1.3,3.46
+21,Estoril,Estoril Open,05/04/2024,ATP250,Outdoor,Clay,Quarterfinals,3,Garin C.,Borges N.,112,62,543,871,6,2,7,6,,,,,,,2,0,Completed,2.63,1.5,2.77,1.51,2.77,1.53,2.6,1.49
+21,Estoril,Estoril Open,05/04/2024,ATP250,Outdoor,Clay,Quarterfinals,3,Martinez P.,Gasquet R.,77,122,741,508,6,4,6,4,,,,,,,2,0,Completed,1.4,3,1.42,3.14,1.5,3.14,1.41,2.87
+21,Estoril,Estoril Open,05/04/2024,ATP250,Outdoor,Clay,Quarterfinals,3,Ruud C.,Fucsovics M.,8,85,3615,697,6,3,6,2,,,,,,,2,0,Completed,1.2,4.5,1.24,4.66,1.24,4.75,1.21,4.36
+21,Estoril,Estoril Open,06/04/2024,ATP250,Outdoor,Clay,Semifinals,3,Hurkacz H.,Garin C.,10,112,3425,543,6,3,3,6,6,3,,,,,2,1,Completed,1.5,2.63,1.44,3.03,1.5,3.03,1.47,2.68
+21,Estoril,Estoril Open,06/04/2024,ATP250,Outdoor,Clay,Semifinals,3,Martinez P.,Ruud C.,77,8,741,3615,6,4,4,6,6,4,,,,,2,1,Completed,5,1.17,5.99,1.18,5.99,1.18,5.14,1.16
+21,Estoril,Estoril Open,07/04/2024,ATP250,Outdoor,Clay,The Final,3,Hurkacz H.,Martinez P.,10,77,3425,741,6,3,6,4,,,,,,,2,0,Completed,1.53,2.5,1.54,2.66,1.59,2.66,1.52,2.49
